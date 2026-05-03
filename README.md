@@ -5,14 +5,12 @@ I'm Yusuf. I am a second grade MIS student in Akdeniz University. I'm currently 
 ### 🚀 What I'm Working On  
 - Strengthening my skills in programming  
 - Developing small desktop and console applications  
-- Exploring game development engines like Unity and Unreal  
 - Learning the basics of ethical hacking and cybersecurity tools 
 
 ### 🎯 Goals  
 - Contribute to open-source software  
 - Improve my problem-solving and algorithm skills  
 - Intern or work on real-life software projects
-- Build and publish my own game
 
 <!--
 **yusufD32/yusufD32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
