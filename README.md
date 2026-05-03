@@ -1,6 +1,6 @@
 ## HI THERE!
 
-I'm Yusuf. I am a second grade MIS student in Akdeniz University. I'm currently learning C/C++,C# and Python and trying to build real world applications. My main areas interest are Game Development, Software Development and Cyber Security. 
+I'm Yusuf. I am a second grade MIS student at Akdeniz University. I'm currently learning C/C++,C# and Python and trying to build real world applications. My main areas interest are Software Development and Cyber Security. 
 
 ### 🚀 What I'm Working On  
 - Strengthening my skills in programming  
